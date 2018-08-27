@@ -1,0 +1,36 @@
+﻿body{
+	height: 800px;
+	width: 800px;
+	float: none;
+	margin-left: 300px;
+	border-style:solid;
+	background-color: #F0D1CA;
+}
+#uno{
+	width:400px;
+	height:400px;
+	float:left;
+	background-color: teal;
+}
+#dos{
+	width:400px;
+	height:400px;
+	float:left;
+	background-color: blue;
+}
+
+#tres{
+	width:400px;
+	height:400px;
+	float:left;
+	background-color: yellow;
+}
+
+#cuatro{
+	width:400px;
+	height:400px;
+	float:left;
+	background-color: red;
+}
+
+
